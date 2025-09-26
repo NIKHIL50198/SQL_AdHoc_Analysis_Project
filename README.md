@@ -97,6 +97,7 @@ MySQL was used to analyze data.
 
 select market from dim_customer where customer = "Atliq Exclusive" AND region = "APAC";
 
+
  #Q2
  
  WITH unique_products_20 AS (
@@ -117,6 +118,7 @@ select market from dim_customer where customer = "Atliq Exclusive" AND region = 
  unique_products_20 t1,
  unique_products_21 t2;
  
+ 
  #Q3
  
  select 
@@ -125,6 +127,7 @@ select market from dim_customer where customer = "Atliq Exclusive" AND region = 
  from dim_product
  group by segment 
  order by product_count  desc
+ 
  
  #Q4
  
@@ -152,6 +155,7 @@ join fact_sales_monthly sm
  order by difference desc
  
  
+ 
  #Q5
  
  select 
@@ -164,6 +168,7 @@ join fact_sales_monthly sm
  order by manufacturing_cost desc;
  
  
+ 
  #Q6
  
  select 
@@ -174,6 +179,7 @@ join fact_sales_monthly sm
  where fiscal_year= 2021 and market='India'
  group by customer_code, customer
  order by average_discount_percentage desc limit 5
+ 
  
  #Q7
  
@@ -191,6 +197,7 @@ join fact_sales_monthly sm
  where customer= 'Atliq Exclusive'
  group by month_, sm.fiscal_year
  order by sm.date asc;
+ 
  
  #Q8
  
@@ -210,6 +217,7 @@ join fact_sales_monthly sm
  group by quarters
  order by total_sold_quantity desc;
  
+ 
  #Q9
  
  with cte as (select 
@@ -228,6 +236,7 @@ join fact_sales_monthly sm
  ROUND((gross_sales_mln/sum(gross_sales_mln) over())*100,2) as percentage
  from cte
 order by gross_sales_mln  desc;
+
 
 #Q10
 
