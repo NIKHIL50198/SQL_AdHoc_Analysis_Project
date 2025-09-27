@@ -100,10 +100,10 @@ MySQL was used to analyze data.
 
 -- KPI’s REQUIREMENT --  
 
--- #Q1
+```-- #Q1
 select market 
 from dim_customer 
-where customer = "Atliq Exclusive" AND region = "APAC";
+where customer = "Atliq Exclusive" AND region = "APAC";```
 
 -- #Q2
 WITH unique_products_20 AS (
