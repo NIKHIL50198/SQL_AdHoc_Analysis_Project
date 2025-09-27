@@ -1,3 +1,10 @@
+🛠️ Consumer Goods Analysis
+
+## Live Dashboard: https://app.powerbi.com/links/WdiAqACYdl?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
+
+
+
+
 # Problem Statement  
 Atliq Hardwares, a leading computer hardware manufacturer based in India with a global presence, is seeking to enhance its data analytics capabilities. The management has observed a lack of sufficient insights for making swift, data-driven decisions. To address this, they plan to expand their data analytics team by recruiting several junior data analysts. Tony Sharma, the Data Analytics Director, aims to find candidates proficient in both technical and interpersonal skills. To evaluate these abilities, he has organized a SQL challenge.
 
