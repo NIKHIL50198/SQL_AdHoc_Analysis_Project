@@ -237,7 +237,7 @@ select
   division, product_code, product, total_sold_quantity, rank_order
 from cte
 where rank_order in (1,2,3);
-
+```
 
 ## 5. SHARE	
 ![Screenshot (105)](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project/assets/132642567/0d2cf631-79c4-4f59-8270-c869f39f7720)
