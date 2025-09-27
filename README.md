@@ -103,7 +103,7 @@ MySQL was used to analyze data.
 ```-- #Q1
 select market 
 from dim_customer 
-where customer = "Atliq Exclusive" AND region = "APAC";```
+where customer = "Atliq Exclusive" AND region = "APAC";
 
 -- #Q2
 WITH unique_products_20 AS (
@@ -237,13 +237,6 @@ select
   division, product_code, product, total_sold_quantity, rank_order
 from cte
 where rank_order in (1,2,3);
-
-
-
-
-
- 
-       
 
 
 ## 5. SHARE	
