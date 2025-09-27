@@ -285,4 +285,5 @@ where rank_order in (1,2,3);
 - Replicate Q1 Success: Analyze and replicate strategies that boosted first-quarter sales in 2020.
 
 Thank you for reading and evaluating my repo :)        
-[LinkedIn](www.linkedin.com/in/nikhil-dhasmana-3b2b90137)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nikhil-dhasmana-3b2b90137/)
+
