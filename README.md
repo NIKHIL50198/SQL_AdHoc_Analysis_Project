@@ -241,26 +241,25 @@ where rank_order in (1,2,3);
 
 ## 5. SHARE	
 ![Screenshot (105)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/Screenshot%20(566).png
-
 )
 ![Screenshot (106)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0003.jpg
-
 )
-(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0004.jpg)
+![Screenshot (107)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0004.jpg)
 
-(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0005.jpg)
+![Screenshot (108)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0005.jpg)
 
-(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0006.jpg)
+![Screenshot (109)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0006.jpg)
 
-(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0007.jpg)
+![Screenshot (110)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0007.jpg)
 
-(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0008.jpg)
+![Screenshot (111)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0008.jpg)
 
-(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0009.jpg)
+![Screenshot (112)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0009.jpg)
 
-(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0010.jpg)
+![Screenshot (113)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0010.jpg)
 
-(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0011.jpg)
+
+![Screenshot (114)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0011.jpg)
 
 
 
