@@ -240,8 +240,28 @@ where rank_order in (1,2,3);
 ```
 
 ## 5. SHARE	
-![Screenshot (105)](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project/assets/132642567/0d2cf631-79c4-4f59-8270-c869f39f7720)
-![Screenshot (106)](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project/assets/132642567/c08b0324-fab1-493d-bcad-a57406b74cb5)
+![Screenshot (105)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/Screenshot%20(566).png
+
+)
+![Screenshot (106)](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0003.jpg
+
+)
+(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0004.jpg)
+
+(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0005.jpg)
+
+(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0006.jpg)
+
+(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0007.jpg)
+
+(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0008.jpg)
+
+(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0009.jpg)
+
+(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0010.jpg)
+
+(https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project/blob/b7720d9ace5b6c1d082d70741ab4f81886548f85/images/adhoc%20sql_power%20bi_project_final_complete_page-0011.jpg)
+
 
 
 
