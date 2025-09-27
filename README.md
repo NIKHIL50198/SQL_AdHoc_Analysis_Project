@@ -100,13 +100,12 @@ MySQL was used to analyze data.
 
 -- KPI’s REQUIREMENT --  
 
-#Q1
 
+
+#Q1
 select market from dim_customer where customer = "Atliq Exclusive" AND region = "APAC";
 
-
  #Q2
- 
  WITH unique_products_20 AS (
  SELECT count(distinct product_code) as unique_products_2020 
  FROM FACT_SALES_MONTHLY 
@@ -125,9 +124,7 @@ select market from dim_customer where customer = "Atliq Exclusive" AND region = 
  unique_products_20 t1,
  unique_products_21 t2;
  
- 
  #Q3
- 
  select 
   segment,
  count(distinct(product_code))as product_count
@@ -135,9 +132,7 @@ select market from dim_customer where customer = "Atliq Exclusive" AND region = 
  group by segment 
  order by product_count  desc
  
- 
  #Q4
- 
  with cte1 as ( 
  select p.segment, count(distinct sm.product_code) as product_count_2020
  from dim_product p
@@ -162,10 +157,8 @@ join fact_sales_monthly sm
  order by difference desc
  
  
- 
  #Q5
- 
- select 
+select 
  p.product_code, p.product, mc.manufacturing_cost
  from dim_product p
  join fact_manufacturing_cost mc
@@ -175,9 +168,7 @@ join fact_sales_monthly sm
  order by manufacturing_cost desc;
  
  
- 
  #Q6
- 
  select 
  pid.customer_code, dc.customer,Round(AVG( pid.pre_invoice_discount_pct),4) as average_discount_percentage
  from fact_pre_invoice_deductions pid
@@ -187,10 +178,8 @@ join fact_sales_monthly sm
  group by customer_code, customer
  order by average_discount_percentage desc limit 5
  
- 
  #Q7
- 
- select
+  select
  MONTHNAME(sm.date) as month_,
  sm.fiscal_year,
  round(sum((gp.gross_price*sm.sold_quantity)),2)as Gross_sales_amount
@@ -205,9 +194,7 @@ join fact_sales_monthly sm
  group by month_, sm.fiscal_year
  order by sm.date asc;
  
- 
  #Q8
- 
  with cte as (select 
  month(date) as m_, sum(sold_quantity) as tsq
  from fact_sales_monthly 
@@ -215,19 +202,17 @@ join fact_sales_monthly sm
  group by m_)
  select 
  CASE
- WHEN m_ IN(9,10,11) THEN "1"
-  WHEN m_ IN(12,1,2) THEN "2"
- WHEN m_ IN(3,4,5) THEN "3"
- ELSE "4" 
+ WHEN m_ IN(9,10,11) THEN "q1"
+  WHEN m_ IN(12,1,2) THEN "q2"
+ WHEN m_ IN(3,4,5) THEN "q3"
+ ELSE "q4" 
  END as quarters , sum(tsq) as total_sold_quantity
  from cte
  group by quarters
  order by total_sold_quantity desc;
  
- 
  #Q9
- 
- with cte as (select 
+  with cte as (select 
  c.channel, 
  round(sum((gross_price*sm.sold_quantity)/1000000),2) as gross_sales_mln
  from  fact_sales_monthly sm
@@ -244,9 +229,7 @@ join fact_sales_monthly sm
  from cte
 order by gross_sales_mln  desc;
 
-
 #Q10
-
 with cte as ( select sm.product_code,p.product,
 p.division, sum(sm.sold_quantity) as total_sold_quantity, sm.fiscal_year, rank() over(partition by p.division 
 order by sum(sm.sold_quantity)desc)as rank_order
@@ -260,6 +243,9 @@ division, product_code, product, total_sold_quantity,
 rank_order
 from cte 
 where rank_order  in(1,2,3);
+
+ 
+ 
        
 
 
