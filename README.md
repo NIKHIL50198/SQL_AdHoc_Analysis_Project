@@ -1,6 +1,6 @@
 🛠️ Consumer Goods Analysis
 
-## Live Dashboard:_(https://app.powerbi.com/links/WdiAqACYdl?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+## Live Dashboard:_[Consumer_Goods_Ad_Hoc_insights](https://app.powerbi.com/links/WdiAqACYdl?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
 
 
