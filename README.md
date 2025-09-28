@@ -223,7 +223,7 @@ where rank_order in (1,2,3);
 - The Accessories segment had the most unique products in 2021 compared to 2020.
 - The AQ HOME Allin1 Gen 2 has the highest manufacturing cost, while the AQ Master wired x1 MS has the lowest manufacturing cost.
 - Flipkart, Viveks, Ezone, Croma, and Amazon offered the highest average discount percentages in the Indian market for the fiscal year 2021.
-- In 2019, September was the lowest performing month, while November saw the highest performance. For 2020, March was the lowest performing month, with November again being the highest.
+- In 2020, March was the lowest performing month, while November saw the highest performance. For 2020, March was the lowest performing month, with November again being the highest.
 - The first quarter of 2020 (September, October, November) saw the highest number of products sold.
 - The retailer channel significantly boosted gross sales in the fiscal year 2021, contributing 73.23%.
 - The top-selling products in the fiscal year 2021 were as follows: N&S Division: AQ Pen Drive 2 in 1, AQ Pen Drive DRC, P&A Division: AQ Gamers MS, AQ Maxima MS, PC Division: AQ Digit, AQ Velocity
